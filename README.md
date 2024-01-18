@@ -15,24 +15,24 @@ Tive meu primeiro contato com programação no Ensino Médio, mas, com a pandemi
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-hub&theme=aura" width="50%" alt="Most Used Languages">
 &nbsp;
 
-<table border="1" align="cente>
+<table border="1" align="center">
   <thead>
     <tr>
-      <th width="30%">To-Do</td>
-      <th width="40%">In Progress</td>
-      <th width="30%">Done</td>
+      <th width="30%">To-Do</th>
+      <th width="40%">In Progress</th>
+      <th width="30%">Done</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Revisar matemática</td>
       <td>Aprender uma linguagem por 100 dias</td>
-      <td></td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td>Pensar e anotar ideias de projetos</td>
       <td>Explorar as diferentes áreas da tecnologia para ver em qual me encaixo</td>
-      <td></td>
+      <td>&nbsp;</td>
     </tr>
   </tbody>
 </table>
