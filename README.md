@@ -10,18 +10,12 @@ Tive meu primeiro contato com programação no Ensino Médio, mas, com a pandemi
 
 ## Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leticia-hub&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=leticia-hub&theme=aura" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-hub&theme=aura" width="40%" alt="Most Used Languages">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=leticia-hub&show_icons=true&theme=aura&include_all_commits=true&count_private=true" width="50%" />
+<img src="https://streak-stats.demolab.com/?user=leticia-hub&theme=aura" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-hub&theme=aura" width="50%" alt="Most Used Languages">
 &nbsp;
 
-<table border="1" align="center">
+<table border="1" align="cente>
   <thead>
     <tr>
       <th width="30%">To-Do</td>
