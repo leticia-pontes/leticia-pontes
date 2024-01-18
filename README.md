@@ -1,20 +1,45 @@
 # E aí?
 #### **Me encontre aqui**
 
-<div>
-  <a href="www.linkedin.com/in/leticia-alves-de-pontes">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.codewars.com/users/Lettti">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
-  <a/>
-  <a href="https://leetcode.com/leticia-hub/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  <a/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leticia-alves-de-pontes)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/leticia-hub/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Lettti)
 
-##### ![Letícia's Stats](https://github-readme-stats.vercel.app/api?username=leticia-hub&show_icons=true&theme=aura&include_all_commits=true&count_private=true)
-##### ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-hub&theme=aura)
+## Meu nome é Letícia, sou estagiária em Desenvolvimento de Sistemas.
+Tive meu primeiro contato com programação no Ensino Médio, mas, com a pandemia, eu voltei à estaca zero. Acompanhe a minha evolução.
+
+## Estatísticas
+
+![Letícia's Stats](https://github-readme-stats.vercel.app/api?username=leticia-hub&show_icons=true&theme=aura&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leticia-hub&theme=aura)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-hub&theme=aura" width="40%" alt="Most Used Languages">
+</p>
+&nbsp;
+
+<table border="1" align="center">
+  <thead>
+    <tr>
+      <th width="30%">To-Do</td>
+      <th width="40%">In Progress</td>
+      <th width="30%">Done</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Revisar matemática</td>
+      <td>Aprender uma linguagem por 100 dias</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Pensar e anotar ideias de projetos</td>
+      <td>Explorar as diferentes áreas da tecnologia para ver em qual me encaixo</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+&nbsp;
 
 #### Já tive contato com
 <div>
@@ -33,3 +58,6 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div>
+&nbsp;
+    
+<h3 align="center">Outros projetos</h3>
