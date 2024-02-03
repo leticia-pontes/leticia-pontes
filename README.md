@@ -6,7 +6,7 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Lettti)
 
 ## Meu nome é Letícia, sou estagiária em Desenvolvimento de Sistemas.
-Tive meu primeiro contato com programação no Ensino Fundamental e comecei a aprender de fato no Ensino Médio, mas, com a pandemia, eu voltei à estaca zero. Acompanhe a minha evolução.
+Tive meu primeiro contato com programação no Ensino Fundamental e comecei a aprender de fato no Ensino Médio, mas, com a pandemia, eu voltei à estaca zero. Hoje estudo Ciência da Computação e faço estágio em Desenvolvimento de Software. Acompanhe a minha evolução.
 
 ## Estatísticas
 
@@ -23,7 +23,8 @@ Tive meu primeiro contato com programação no Ensino Fundamental e comecei a ap
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delphi-E62431.svg?style=for-the-badge&logo=Delphi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebird-FF5D00?style=for-the-badge&logo=Firebird&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
