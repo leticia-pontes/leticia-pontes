@@ -15,29 +15,6 @@ Tive meu primeiro contato com programação no Ensino Fundamental e comecei a ap
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-hub&theme=aura" width="50%" alt="Most Used Languages">
 &nbsp;
 
-<table border="1" align="center">
-  <thead>
-    <tr>
-      <th width="30%">To-Do</th>
-      <th width="40%">In Progress</th>
-      <th width="30%">Done</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Revisar matemática</td>
-      <td>Aprender uma linguagem por 100 dias</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Pensar e anotar ideias de projetos</td>
-      <td>Explorar as diferentes áreas da tecnologia para ver em qual me encaixo</td>
-      <td>&nbsp;</td>
-    </tr>
-  </tbody>
-</table>
-&nbsp;
-
 #### Já tive contato com
 <div>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
