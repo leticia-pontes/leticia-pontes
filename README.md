@@ -5,7 +5,7 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/leticia-hub/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Lettti)
 
-## Meu nome é Letícia, sou estagiária em Desenvolvimento de Sistemas.
+## Meu nome é Letícia, sou estagiária em Desenvolvimento de Software.
 Tive meu primeiro contato com programação no Ensino Fundamental e comecei a aprender de fato no Ensino Médio, mas, com a pandemia, eu voltei à estaca zero. Hoje estudo Ciência da Computação e faço estágio em Desenvolvimento de Software. Acompanhe a minha evolução.
 
 ## Estatísticas
