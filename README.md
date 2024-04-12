@@ -2,7 +2,7 @@
 #### **Me encontre aqui**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leticia-alves-de-pontes)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/leticia-hub/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/leticia-pontes/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Lettti)
 
 ## Meu nome é Letícia, sou estagiária em Desenvolvimento de Software.
@@ -10,9 +10,9 @@ Tive meu primeiro contato com programação no Ensino Fundamental e comecei a ap
 
 ## Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=leticia-hub&show_icons=true&theme=aura&include_all_commits=true&count_private=true" width="50%" />
-<img src="https://streak-stats.demolab.com/?user=leticia-hub&theme=aura" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-hub&theme=aura" width="50%" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=leticia-pontes&show_icons=true&theme=aura&include_all_commits=true&count_private=true" width="50%" />
+<img src="https://streak-stats.demolab.com/?user=leticia-pontes&theme=aura" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-pontes&theme=aura" width="50%" alt="Most Used Languages">
 &nbsp;
 
 #### Já tive contato com
