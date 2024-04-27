@@ -4,6 +4,7 @@
 <a style="text-decoration: none;" href="https://in.linkedin.com/in/leticia-alves-de-pontes">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"><img>
 </a>
+&nbsp;
 <a style="text-decoration: none;" href="https://leetcode.com/u/leticia-hub/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" rel="noopener"><img>
 </a>
