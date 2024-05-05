@@ -21,7 +21,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=leticia-pontes&show_icons=true&theme=aura&include_all_commits=true&count_private=true" width="50%" />
 <img src="https://streak-stats.demolab.com/?user=leticia-pontes&theme=aura" width="50%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-pontes&theme=aura" width="50%" alt="Most Used Languages">
-&nbsp;
+
+##
 
 #### Já tive contato com
 <div>
