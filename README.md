@@ -5,10 +5,18 @@
 <a style="text-decoration: none;" href="https://leetcode.com/u/leticia-hub/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" rel="noopener"><img></a>
 <a style="text-decoration: none;" href="https://www.codewars.com/users/Lettti"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank" rel="noopener"><img></a>
 
-## Meu nome é Letícia, sou estagiária em Desenvolvimento de Software.
-Hoje estudo Ciência da Computação e faço estágio em Desenvolvimento de Software. Acompanhe a minha evolução.
+## Eu sou a Letícia, estagiária em Desenvolvimento de Software.
+👋 Bem-vindo(a) ao meu espaço! Atualmente, estou focada no desenvolvimento web backend com Zend Framework e na linguagem Delphi, mas também tenho experiência com outras linguagens como C/C++ e Python (Django), que aprendi durante a faculdade.
 
-## Estatísticas
+🚀 Estou constantemente buscando aprender coisas novas e evoluir como desenvolvedora. No meu tempo livre, gosto de resolver problemas que desafiam as minhas habilidades, além de projetos que me permitem evoluir.
+
+🔧 Embora esteja atualmente focada no meu trabalho, estou em busca da área que mais me identifico. Estou aberta a explorar diferentes caminhos e descobrir onde posso contribuir da melhor forma possível. Quem sabe onde o vento vai me levar, né?
+
+🌱 Estou sempre aberta a oportunidades de aprendizado e colaboração. Se tiver alguma ideia maluca ou projeto legal pra trocar uma ideia, tô aqui pra ouvir e aprender junto!
+
+💬 Se quiser trocar ideias sobre desenvolvimento, tecnologia ou qualquer outra coisa, é só chamar! Tô (quase) sempre por aqui.
+
+##
 
 <img src="https://github-readme-stats.vercel.app/api?username=leticia-pontes&show_icons=true&theme=aura&include_all_commits=true&count_private=true" width="50%" />
 <img src="https://streak-stats.demolab.com/?user=leticia-pontes&theme=aura" width="50%" />
@@ -38,6 +46,6 @@ Hoje estudo Ciência da Computação e faço estágio em Desenvolvimento de Soft
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div>
-&nbsp;
-    
+<b>entre outros...</b>
+
 <h3 align="center">Outros projetos</h3>
