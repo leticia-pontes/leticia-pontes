@@ -8,7 +8,7 @@
 ## Eu sou a Letícia, estagiária em Desenvolvimento de Software.
 👋 Bem-vindo(a) ao meu espaço! Atualmente, estou focada no desenvolvimento web backend com Zend Framework e na linguagem Delphi, mas também tenho experiência com outras linguagens como C/C++ e Python (Django), que aprendi durante a faculdade.
 
-🚀 Estou constantemente buscando aprender coisas novas e evoluir como desenvolvedora. No meu tempo livre, gosto de resolver problemas que desafiam as minhas habilidades, além de projetos que me permitem evoluir.
+🚀 Estou constantemente buscando aprender coisas novas e evoluir como desenvolvedora. No meu tempo livre, gosto de resolver problemas que desafiam as minhas habilidades, além de projetos que me permitem evoluir (isso sem contar nos meus hobbies).
 
 🔧 Embora esteja atualmente focada no meu trabalho, estou em busca da área que mais me identifico. Estou aberta a explorar diferentes caminhos e descobrir onde posso contribuir da melhor forma possível. Quem sabe onde o vento vai me levar, né?
 
