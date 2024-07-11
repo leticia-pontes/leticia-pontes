@@ -16,6 +16,8 @@
 
 💬 Se quiser trocar ideias sobre desenvolvimento, tecnologia ou qualquer outra coisa, é só chamar! Tô (quase) sempre por aqui.
 
+![](https://komarev.com/ghpvc/?username=leticia-pontes&color=785ef0&style=for-the-badge&label=VISITAS&abbreviated=true)
+
 ##
 
 <img src="https://github-readme-stats.vercel.app/api?username=leticia-pontes&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vision-friendly-dark&include_all_commits=true&count_private=true" width="50%" />
