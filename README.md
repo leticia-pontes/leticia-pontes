@@ -5,7 +5,7 @@
 <a style="text-decoration: none;" href="https://leetcode.com/u/leticia-hub/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" rel="noopener"><img></a>
 <a style="text-decoration: none;" href="https://www.codewars.com/users/Lettti"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank" rel="noopener"><img></a>
 
-## Eu sou a Letícia, estagiária em Desenvolvimento de Software.
+## Eu sou a Letícia!
 👋 Bem-vindo(a) ao meu espaço! Atualmente, estou focada no desenvolvimento web backend com Zend Framework e na linguagem Delphi, mas também tenho experiência com outras linguagens como C/C++ e Python (Django), que aprendi durante a faculdade.
 
 🚀 Estou constantemente buscando aprender coisas novas e evoluir como desenvolvedora. No meu tempo livre, gosto de resolver problemas que desafiam as minhas habilidades, além de projetos que me permitem evoluir (isso sem contar nos meus hobbies).
