@@ -6,11 +6,13 @@
 <a style="text-decoration: none;" href="https://www.codewars.com/users/Lettti"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank" rel="noopener"><img></a>
 
 ## Eu sou a Letícia!
-👋 Bem-vindo(a) ao meu espaço! Atualmente, estou focada no desenvolvimento web backend com Zend Framework e na linguagem Delphi, mas também tenho experiência com outras linguagens como C/C++ e Python (Django), que aprendi durante a faculdade.
+👋 Bem-vindo(a) ao meu espaço! Atualmente, estou focada na faculdade.
 
-🚀 Estou constantemente buscando aprender coisas novas e evoluir como desenvolvedora. No meu tempo livre, gosto de resolver problemas que desafiam as minhas habilidades, além de projetos que me permitem evoluir (isso sem contar nos meus hobbies).
+♥️ Tenho interesse em Desenvolvimento Backend, DevOps e Cibersegurança.
 
-🔧 Embora esteja atualmente focada no meu trabalho, estou em busca da área que mais me identifico. Estou aberta a explorar diferentes caminhos e descobrir onde posso contribuir da melhor forma possível. Quem sabe onde o vento vai me levar, né?
+🚀 Busco aprender coisas novas e evoluir como desenvolvedora. No meu tempo livre, gosto de resolver problemas que desafiam as minhas habilidades, além de projetos que me permitem evoluir (isso sem contar nos meus hobbies).
+
+🔧 Estou aberta a explorar diferentes caminhos e descobrir onde posso contribuir da melhor forma possível. Quem sabe onde o vento vai me levar, né?
 
 🌱 Estou sempre aberta a oportunidades de aprendizado e colaboração. Se tiver alguma ideia maluca ou projeto legal pra trocar uma ideia, tô aqui pra ouvir e aprender junto!
 
