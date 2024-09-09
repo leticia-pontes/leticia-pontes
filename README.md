@@ -10,11 +10,11 @@
 
 ♥️ Tenho interesse em Desenvolvimento Backend, DevOps e Cibersegurança.
 
-🚀 Busco aprender coisas novas e evoluir como desenvolvedora. No meu tempo livre, gosto de resolver problemas que desafiam as minhas habilidades, além de projetos que me permitem evoluir (isso sem contar nos meus hobbies).
+🚀 Busco sempre aprender coisas novas e evoluir. No meu tempo livre, gosto de resolver problemas que desafiam as minhas habilidades, além de desenvolver projetos que me permitem evoluir (isso sem contar nos meus hobbies 🎻).
 
 🔧 Estou aberta a explorar diferentes caminhos e descobrir onde posso contribuir da melhor forma possível. Quem sabe onde o vento vai me levar, né?
 
-🌱 Estou sempre aberta a oportunidades de aprendizado e colaboração. Se tiver alguma ideia maluca ou projeto legal pra trocar uma ideia, tô aqui pra ouvir e aprender junto!
+🌱 Estou sempre aberta a oportunidades de aprendizado e colaboração. Se tiver alguma ideia ou projeto maluco pra trocar uma ideia, tô aqui pra ouvir e aprender junto!
 
 💬 Se quiser trocar ideias sobre desenvolvimento, tecnologia ou qualquer outra coisa, é só chamar! Tô (quase) sempre por aqui.
 
