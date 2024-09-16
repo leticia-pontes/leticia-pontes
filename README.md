@@ -23,7 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=leticia-pontes&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vision-friendly-dark&include_all_commits=true&count_private=true" width="50%" />
 <img src="https://streak-stats.demolab.com/?user=leticia-pontes&theme=vision-friendly-dark" width="50%" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-pontes&theme=vision-friendly-dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-pontes&theme=vision-friendly-dark&layout=donut&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-pontes&theme=aura" width="50%" alt="Most Used Languages"> -->
 
