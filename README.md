@@ -8,7 +8,7 @@
 ## Eu sou a Letícia!
 👋 Bem-vindo(a) ao meu espaço! Atualmente, estou focada na faculdade.
 
-♥️ Tenho interesse em Desenvolvimento Backend, DevOps e Cibersegurança, mas tenho mais experiência com Desenvolvimento Backend.
+♥️ Tenho interesse em Desenvolvimento Backend, Ciência de Dados e Cibersegurança, mas tenho mais experiência com Desenvolvimento Backend.
 
 🚀 Busco sempre aprender coisas novas e evoluir. No meu tempo livre, gosto de resolver problemas que desafiam as minhas habilidades, além de desenvolver projetos que me permitem evoluir (isso sem contar nos meus hobbies 🎻).
 
