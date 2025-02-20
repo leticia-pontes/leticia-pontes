@@ -24,4 +24,5 @@ Eu sou a Letícia, estudante de Ciência da Computação, desenvolvedora fullsta
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-pontes&theme=vision-friendly-dark&layout=donut&langs_count=6" width="41%" />
 </div>
 
+# 
 <h3 align="center">⬇️ Alguns projetos ⬇️</h3>
