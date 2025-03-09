@@ -1,5 +1,5 @@
 ## E aí :wave: Tudo certo?
-Eu sou a Letícia, estudante de Ciência da Computação, desenvolvedora fullstack (com preferência pelo backend) e entusiasta de cibersegurança e ciência de dados.
+Eu sou a Letícia, estudante de Ciência da Computação, desenvolvedora backend e entusiasta de cibersegurança e ciência de dados.
 
 ## Sobre mim
 📑 Trabalhando no meu projeto de iniciação científica<br>
