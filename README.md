@@ -1,20 +1,21 @@
 ## E aí :wave: Tudo certo?
-Eu sou a Letícia, estudante de Ciência da Computação, desenvolvedora backend e entusiasta de cibersegurança e ciência de dados.
+Eu souSou a **Letícia**, estudante de **Ciência da Computação** e apaixonada por **desenvolvimento backend**, **cibersegurança** e **ciência de dados**.  
 
-## Sobre mim
-📑 Trabalhando no meu projeto de iniciação científica<br>
-💻 Aprofundando meus conhecimentos em desenvolvimento backend<br>
-🚨 Estudando cibersegurança<br>
+Atualmente, estou:  
+✅ Trabalhando no meu projeto de **Iniciação Científica**  
+✅ Aprofundando conhecimentos em **.NET, arquitetura de software e segurança**  
+✅ Explorando projetos open-source e desafios de backend
 
 ## Linguagens, Frameworks e Ferramentas
-#### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=php,js,c,cpp,py,django,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,python,php,c,cpp)](https://skillicons.dev)
 #### Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,firebase,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,firebase)](https://skillicons.dev)
 #### Outros
-[![My Skills](https://skillicons.dev/icons?i=git,gtk,github,gitlab,docker,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker)](https://skillicons.dev)
+
+## 📫 Contato  
+🔗 [LinkedIn](https://www.linkedin.com/in/leticiaalvesdepontes)
 
 ## Estatísticas
 
@@ -25,4 +26,4 @@ Eu sou a Letícia, estudante de Ciência da Computação, desenvolvedora backend
 </div>
 
 # 
-<h3 align="center">⬇️ Alguns projetos ⬇️</h3>
+<h3 align="center">🛠️ Projetos em Destaque</h3>
