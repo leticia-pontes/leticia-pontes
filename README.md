@@ -1,5 +1,5 @@
 ## E aí :wave: Tudo certo?
-Eu souSou a **Letícia**, estudante de **Ciência da Computação** e apaixonada por **desenvolvimento backend**, **cibersegurança** e **ciência de dados**.  
+Eu sou a **Letícia**, estudante de **Ciência da Computação** e apaixonada por **desenvolvimento backend**, **cibersegurança** e **ciência de dados**.  
 
 Atualmente, estou:  
 ✅ Trabalhando no meu projeto de **Iniciação Científica**  
