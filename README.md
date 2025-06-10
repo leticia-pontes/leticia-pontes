@@ -24,6 +24,10 @@ Atualmente, estou:
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-pontes&theme=vision-friendly-dark&layout=donut&langs_count=6" width="41%" />
 </div>
+<br />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=leticia-pontes&theme=vision-friendly-dark" style="flex:1" width="50%" />
+</div>
 
 # 
 <h3 align="center">🛠️ Projetos em Destaque</h3>
