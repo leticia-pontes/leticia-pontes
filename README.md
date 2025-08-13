@@ -1,10 +1,11 @@
 ## E aí :wave: Tudo certo?
-Eu sou a **Letícia**, estudante de **Ciência da Computação** e apaixonada por **desenvolvimento backend**, **cibersegurança** e **ciência de dados**.  
+Eu sou a **Letícia**, estudante de **Ciência da Computação**, com foco em **desenvolvimento backend**.
+Tenho interesse em **cibersegurança** e **ciência de dados**.
 
 Atualmente, estou:  
-✅ Trabalhando no meu projeto de **Iniciação Científica**  
-✅ Aprofundando conhecimentos em **.NET, arquitetura de software e segurança**  
-✅ Explorando projetos open-source e desafios de backend
+✅ Trabalhando no meu projeto de **Iniciação Científica** sobre **Visão Computacional Aplicada a Computadores de Placa Única e Sistemas Embarcados**  
+✅ Aprofundando conhecimentos em **cibersegurança** e **ciência de dados**
+✅ Revisão e aplicação de conceitos fundamentais, reforçando habilidades técnicas e raciocínio computacional.
 
 ## Linguagens, Frameworks e Ferramentas
 #### Backend
