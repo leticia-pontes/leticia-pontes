@@ -2,15 +2,19 @@
 Sou desenvolvedora backend (e às vezes fullstack) com interesse em cibersegurança e ciência de dados.
 
 Atualmente, estou:  
-✅ Estudando Cibersegurança  
+✅ Estudando cibersegurança e ciência de dados  
 ✅ Desenvolvendo projetos pessoais
 
 ## Linguagens, Frameworks e Ferramentas
-#### Backend
-[![My Skills](https://skillicons.dev/icons?i=dotnet,python,php,c,cpp)](https://skillicons.dev)
-#### Banco de Dados
+### Linguagens
+[![My Skills](https://skillicons.dev/icons?i=ts,python,cs)](https://skillicons.dev)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nestjs,django,dotnet)](https://skillicons.dev)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=angular,html,css)](https://skillicons.dev)
+### Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,firebase)](https://skillicons.dev)
-#### Outros
+### DevOps e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker)](https://skillicons.dev)
 
 ## 📫 Contato  
