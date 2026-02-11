@@ -7,13 +7,13 @@ Atualmente, estou:
 
 ## Linguagens, Frameworks e Ferramentas
 ### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=ts,python,cs,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cs,cpp,java)](https://skillicons.dev)
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nestjs,django,dotnet)](https://skillicons.dev)
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=angular,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,vuejs,html,css)](https://skillicons.dev)
 ### Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,firebase,sqlite)](https://skillicons.dev)
 ### DevOps e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker)](https://skillicons.dev)
 
