@@ -7,7 +7,7 @@ Atualmente, estou:
 
 ## Linguagens, Frameworks e Ferramentas
 ### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=ts,python,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,cs,cpp,java)](https://skillicons.dev)
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nestjs,django,dotnet)](https://skillicons.dev)
 ### Frontend
