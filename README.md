@@ -1,21 +1,23 @@
 ## E aí :wave: Tudo certo?
-Sou desenvolvedora backend (e às vezes fullstack) com interesse em cibersegurança e ciência de dados.
+Sou desenvolvedora backend (ok, eu sou fullstack) com muito interesse em cibersegurança e ciência de dados.
 
 Atualmente, estou:  
-✅ Estudando cibersegurança e ciência de dados  
-✅ Desenvolvendo projetos pessoais
+✅ Estudando cibersegurança e ciência de dados (mais cibersegurança)  
+✅ Desenvolvendo projetos pessoais (tá um pouco parado por enquanto)
 
 ## Linguagens, Frameworks e Ferramentas
 ### Linguagens
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,cs,cpp,java)](https://skillicons.dev)
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nestjs,django,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,django,dotnet,prisma)](https://skillicons.dev)
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=angular,vuejs,html,css)](https://skillicons.dev)
 ### Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,firebase,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,firebase,sqlite)](https://skillicons.dev)
+### IA
+[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 ### DevOps e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,linuz,ubuntu)](https://skillicons.dev)
 
 ## 📫 Contato  
 🔗 [LinkedIn](https://www.linkedin.com/in/leticiaalvesdepontes)
