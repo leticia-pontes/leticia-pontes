@@ -20,7 +20,7 @@ Atualmente, estou:
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,linuz,ubuntu)](https://skillicons.dev)
 
 ## 📫 Contato  
-🔗 [LinkedIn](https://www.linkedin.com/in/leticiaalvesdepontes)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leticiaalvesdepontes)
 
 ## Estatísticas
 
