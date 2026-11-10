@@ -1,0 +1,91 @@
+<svg width="100%" height="340" viewBox="0 0 850 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* Tema Escuro (GitHub Dark + Paleta Mimikyu) */
+    .bg-card { fill: #0d1117; stroke: #30363d; }
+    .decor-border { stroke: #238636; stroke-dasharray: 4 6; stroke-width: 1.5; opacity: 0.4; }
+    
+    .bio-main { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14.5px; fill: #f0f6fc; }
+    .bio-highlight { fill: #E5B869; font-weight: 600; }
+    
+    .subhead { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #68B5E8; letter-spacing: 1px; }
+    
+    .lbl-ia { fill: #68B5E8; font-weight: 600; }
+    .lbl-robotica { fill: #E27A5B; font-weight: 600; }
+    .lbl-backend { fill: #E5B869; font-weight: 600; }
+    .lbl-infra { fill: #52B788; font-weight: 600; }
+    .lbl-projetos { fill: #74C69D; font-weight: 600; }
+    .desc-text { fill: #8b949e; }
+
+    .terminal-box { fill: #161b22; stroke: #30363d; }
+    .terminal-text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 12.5px; fill: #E5B869; }
+
+    /* Tema Claro (GitHub Light) */
+    @media (prefers-color-scheme: light) {
+      .bg-card { fill: #fcfcfc; stroke: #d0d7de; }
+      .decor-border { stroke: #1a7f37; opacity: 0.35; }
+
+      .bio-main { fill: #24292f; }
+      .bio-highlight { fill: #B8781B; }
+
+      .subhead { fill: #1D6FB8; }
+
+      .lbl-ia { fill: #1D6FB8; }
+      .lbl-robotica { fill: #C44C27; }
+      .lbl-backend { fill: #B8781B; }
+      .lbl-infra { fill: #2D7D46; }
+      .lbl-projetos { fill: #388E3C; }
+      .desc-text { fill: #57606a; }
+
+      .terminal-box { fill: #f6f8fa; stroke: #d0d7de; }
+      .terminal-text { fill: #945B0A; }
+    }
+  </style>
+
+  <!-- Fundo do Painel -->
+  <rect width="848" height="338" x="1" y="1" rx="14" class="bg-card" stroke-width="1.2" />
+
+  <!-- Detalhe Divertido 1: Rebordo botânico pontilhado no canto superior direito -->
+  <path d="M 750 1 L 836 1 A 13 13 0 0 1 849 14 L 849 90" fill="none" class="decor-border" />
+
+  <!-- Trepadeira intencional de rebentos a "escalar" o canto superior -->
+  <g transform="translate(818, 24) rotate(20) scale(0.9)"><text>🌱</text></g>
+  <g transform="translate(785, 14) rotate(-10) scale(0.75)"><text>🌱</text></g>
+  <g transform="translate(822, 60) rotate(15) scale(0.7)"><text>🌱</text></g>
+
+  <!-- Bio inicial com destaques em mostarda Mimikyu -->
+  <text x="36" y="42" class="bio-main">Dev <tspan class="bio-highlight">backend</tspan> e de <tspan class="bio-highlight">IA</tspan> (fullstack quando o projeto pede). Gosto de entender como as coisas</text>
+  <text x="36" y="64" class="bio-main">funcionam, e mais ainda de entender como elas quebram.</text>
+
+  <!-- Título com um mini-rebento decorativo de suporte -->
+  <text x="36" y="105" class="subhead">NO QUE EU MAIS ME METO</text>
+
+  <!-- Lista estruturada com marcadores em paleta harmónica -->
+  <g transform="translate(36, 130)" class="bio-main">
+    <circle cx="4" cy="-4" r="3" fill="#68B5E8" />
+    <text x="16" y="0"><tspan class="lbl-ia">IA:</tspan> <tspan class="desc-text">virou meu foco, mais engenharia do que pesquisa 🔎</tspan></text>
+
+    <circle cx="4" cy="24" r="3" fill="#E27A5B" />
+    <text x="16" y="28"><tspan class="lbl-robotica">Robótica e embarcados:</tspan> <tspan class="desc-text">FPGA e VHDL, ainda no começo 🍓</tspan></text>
+
+    <circle cx="4" cy="52" r="3" fill="#E5B869" />
+    <text x="16" y="56"><tspan class="lbl-backend">Backend:</tspan> <tspan class="desc-text">onde eu me sinto em casa 🏠</tspan></text>
+
+    <circle cx="4" cy="80" r="3" fill="#52B788" />
+    <text x="16" y="84"><tspan class="lbl-infra">Infra e DevOps:</tspan> <tspan class="desc-text">aprendendo a fazer meu código rodar fora do meu notebook 🐳</tspan></text>
+
+    <!-- Marcador especial no último item conectando com o tema -->
+    <circle cx="4" cy="108" r="3" fill="#74C69D" />
+    <text x="16" y="112"><tspan class="lbl-projetos">Projetos pessoais:</tspan> <tspan class="desc-text">tá um pouco parado por enquanto 🌱</tspan></text>
+  </g>
+
+  <!-- Detalhe Divertido 2: A caixa de terminal com um rebento "empoleirado" na borda -->
+  <g transform="translate(36, 278)">
+    <rect width="776" height="38" rx="7" class="terminal-box" />
+    <text x="18" y="24" class="terminal-text">> Uso IA pra ir mais rápido ⚡, mas leio tudo antes de subir.</text>
+    
+    <!-- Brotinho pousado na aresta superior da caixa -->
+    <g transform="translate(738, -12) rotate(6) scale(0.95)">
+      <text>🌱</text>
+    </g>
+  </g>
+</svg>
