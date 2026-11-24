@@ -1,4 +1,4 @@
-Backend and AI developer (fullstack when the project calls for it). I like understanding how things work, and even more how they break.
+AI developer and Backend (fullstack when the project calls for it). I like understanding how things work, and even more how they break.
 
 **What I spend most of my time on**
 
